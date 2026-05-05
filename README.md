@@ -12,5 +12,5 @@ El objetivo principal actual es aprender el flujo básico entre repositorio loca
 - `README.md`: documentación básica del proyectoo.
 
 ## Nota de verificación
-Este caambio se ha realizaado desde una copia clonada del repositorio.
+Este caammbio se ha realizaado desde una copia clonada del repositorio.
 
